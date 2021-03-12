@@ -1,6 +1,5 @@
 # VBA_challenge
 # VBA Challenge - Stock Market Analysis
-Performing analysis on Kickstarter data to uncover trends
 # Refactor VBA code and measure performance of stocks for different years
 ## Overview of Project
 Analyze an entire dataset of stocks to cover entire stock market over the last few years. 
