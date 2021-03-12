@@ -16,9 +16,9 @@ The purpose of this challenge is to analyze performance of stocks of entire stoc
 
 ## Summary
 #### 1. Advantages in general:
-Helps code run faster	
-Makes code easier to understand
-Debugging is easier
+##### Helps code run faster	
+##### Makes code easier to understand
+##### Debugging is easier
 #### 2. Disadvantages: in general The process is time consuming
 #### 3. Advantages of refactored VBA script:
 The reference png files clearly shows that the code run time was successful reduced from .58 seconds to .1 seconds. Also a encountered errors in the first go, debugging was easier in the refactored layout. Disadvantage was to actually understand the code and write the loop with multiple if commands. With the help of TA I was able to debug the errors but it took time to write the code initially
